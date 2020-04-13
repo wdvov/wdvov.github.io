@@ -2,7 +2,7 @@
 int main()
 {
 \n
-	printf("Hello CYh,I'm WD.Happy birthday to you!\n");
+	printf("I'm WD.\n");
 
 	return 0;
 }
